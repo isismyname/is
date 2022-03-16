@@ -4,8 +4,8 @@
 
 * 👨‍🦱 I'm just ordinary human, but im trying to do better
 
-* 💻 I'm interested in becoming a web programmer, and want to be a fullstack.
+* 💻 I'm interested in becoming a web programmer and want to be a fullstack.
 
-* 📚 I'm learning about nodeJs, reactJs, expressJs and CSS libraries
+* 📚 Now, i'm learning about nodeJs, reactJs, expressJs and CSS libraries
 
-* 📧 Thank you for visiting, feel free to contact me at any time via twitter.
+* 📧 Thank you for visiting, feel free to contact me any time via twitter.
